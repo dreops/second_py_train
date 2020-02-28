@@ -1,0 +1,7 @@
+15:00 28/02/2020
+
+- Create Repo
+- Git Clone to folder
+- move files on local machine (copy to be safe)
+- git init, add, push, commit etc.
+
